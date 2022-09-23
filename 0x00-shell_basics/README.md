@@ -1,1 +1,1 @@
-script to print file name
+To Create a symbolic link
