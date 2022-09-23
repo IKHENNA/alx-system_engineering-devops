@@ -1,1 +1,1 @@
-readme
+script to print file name
