@@ -1,1 +1,1 @@
-a script that creates the directories welcome
+a command that lists all the files
