@@ -1,1 +1,1 @@
-script that copies all the HTML
+a script that moves all files
